@@ -1,4 +1,4 @@
-# 05_Scheduler_Terrill
+# Work Day Schedule by Taylor Terrill
 
 University of Utah Programming Bootcamp Challenge 5
 
